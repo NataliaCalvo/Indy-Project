@@ -1,0 +1,17 @@
+@use "/src/scss/resetScss.scss";
+@use "/src/scss/_mixins.scss";
+@use "/src/main/frontend/Indy/src/scss/fonts";
+
+// @use "@/scss/colors" as c;
+
+
+body{
+    font-family: "SF Fedora";
+    display: flex;
+    justify-content: center;
+    font-family: "sFFedoraTitlesShadow";
+
+.bold{
+    font-weight: bold;
+}
+}
