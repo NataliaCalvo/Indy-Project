@@ -1,12 +1,15 @@
 <script setup>
 
 import LandingPage from '../components/LandingPage.vue';
+import Header from '../components/Header.vue'
 
 
 </script>
 
 <template>
-<LandingPage/>
+
+<!-- <LandingPage/> -->
+<Header />
 
 
 </template>

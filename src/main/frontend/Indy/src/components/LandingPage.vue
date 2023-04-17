@@ -10,13 +10,17 @@
         <img src="../assets/images/IndyColor.png" class="coloredImage" alt="Image of Ismael as Indiana Jones shooting with his weapon in grey shadows">
 </div>
 <!-- <h2 id="clickEnter">CLICK TO ENTER</h2> -->
-<img id="imgClickToEnter" src="../assets/images/imgClickToEnter.png" alt="Click the image above to enter">
+<img id="imgClickToEnter" src="../assets/images/enterLanding.png" alt="Click the image above to enter">
 <div class="lastRow">
     <div class="iconSocialMedia">
-        <img class="iconFacebook" src="../assets/icons/png-transparent-computer-icons-facebook-blog-facebook-logo-desktop-wallpaper-facebook-icon-removebg-preview.png" alt="Facebook Link">
-        <img class="iconTwitter" src="../assets/icons/twitter-logo-vector-png-clipart-1-removebg-preview.png" alt="Twitter Link">
-        <img class="iconInstagram" src="../assets/icons/instagram-logo-png-transparent-background-1024x1024-1-removebg-preview.png" alt="Instagram Link">
-        <img class="iconYoutube" src="../assets/icons/png-transparent-youtube-logo-youtube-red-logo-computer-icons-youtube-television-angle-rectangle-thumbnail-removebg-preview.png" alt="Youtube Link">
+        <a href="https://www.facebook.com/profile.php?id=100091650320962">
+        <img class="iconFacebook" src="../assets/icons/png-transparent-computer-icons-facebook-blog-facebook-logo-desktop-wallpaper-facebook-icon-removebg-preview.png" alt="Facebook Link"></a>
+        <a href="https://twitter.com/indylookalike">
+        <img class="iconTwitter" src="../assets/icons/twitter-logo-vector-png-clipart-1-removebg-preview.png" alt="Twitter Link"></a>
+        <a href="https://www.instagram.com/topindylookalike/">
+        <img class="iconInstagram" src="../assets/icons/instagram-logo-png-transparent-background-1024x1024-1-removebg-preview.png" alt="Instagram Link"></a>
+        <a href="https://www.youtube.com/channel/UCPys7xIDUv5-txhRIWZI9fQ">
+        <img class="iconYoutube" src="../assets/icons/png-transparent-youtube-logo-youtube-red-logo-computer-icons-youtube-television-angle-rectangle-thumbnail-removebg-preview.png" alt="Youtube Link"></a>
 
     </div>
 </div>
@@ -48,24 +52,25 @@ main {
 }
 
     #imgIsmael{
-        width: 80%;
-        margin-left: 200px;
-        margin-top: 30px;
+        width: 70%;
+        margin-left: 18%;
+        margin-top: 3%;
     }
     
     #imgClickToEnter {
-        width: 50%;
-        margin-left: 500px;
-        margin-top: 30px;
+        width: 10%;
+        height: 5%;
+        margin-left: 45%;
+        margin-top: 3%;
     }
 
     #imgLanding {
         width: 80%;
         height: 80%;
-        margin-left: 700px;
-        margin-top: 100px;
-        position: relative;
-        display: inline-block;
+        margin-left: 37%;
+        margin-top: 5%;
+        /* position: relative; */
+        /* display: inline-block; */
     }
     .coloredImage{
         filter: grayscale(100%);
@@ -101,45 +106,39 @@ main {
     font-family: 'SF Fedora Titles', sans-serif;
     font-size: xx-large;
     font-weight: bold;
-    margin-left: 800px;
+    margin-left: 45%;
     margin-bottom: 1px;
 }
 #lastRow {
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
-
-
-
-
-
-
+    justify-content: space-between;
 }
         .iconSocialMedia {
             display: flex;
             flex-direction: row;
-            justify-content: space-evenly;
+            justify-content: space-around;
             align-items: center;
-            margin-left: 100px;
-            margin-top: 50px;
+            margin-left: 10%;
+            margin-top: 4%;
 
 
         }
         .iconFacebook{
-            width: 5%;
-            height: 5%;
+            width: 15%;
+            height: 15%;
         }
         .iconTwitter{
-            width: 5%;
-            height: 5%;
+            width: 15%;
+            height: 15%;
         }
         .iconInstagram {
-            width: 5%;
-            height: 5%;
+            width: 10%;
+            height: 10%;
         }
         .iconYoutube {
-            width: 5%;
-            height: 5%;
+            width: 15%;
+            height: 15%;
         }
 
 
