@@ -17,7 +17,7 @@ The appeal of the Indiana Jones character is unquestionable. It is simply iconic
 Indiana Jones was named the greatest movie character of all time… after thousands of film fans cast their votes via the Empire magazine, back in 2015. James Bond came only second.<br>
 
 All throughout these years, fans all over the world have been fascinated not only by the storylines – but also by Indy’s iconic gear. Ismael was of course one of them. <br>
-Over the years he has been dressing up as Indy, bringing joy to many people. Whether it is at corporate events, promotional assignments or charity galas, the ‘Indy’ in him takes over and never disappoints. <br>
+Over the years he has been dressing up as Indy, bringing joy to many people. Whether it is at corporate events, promotional assignments or charity galas, the ‘Indy’ in him takes over and never disappoints. <br><br>
 READ MORE...
 </P>
 </body>
@@ -41,7 +41,7 @@ P{
     font-size: larger;
     font-family: 'SF Fedora Titles', sans-serif;
     background: transparent;
-    margin-bottom: 2%;
+    margin-bottom: 1%;
 }
 
 </style>
