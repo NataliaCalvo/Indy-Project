@@ -9,7 +9,7 @@
 
     <img id="imgIsmael" src="../assets/images/titlePageIsmael.png" alt="Page title: Ismael as Indiana Jones">
     <div class="menuItemsHeader">
-        <h1 class="bioItem">Biography</h1><h1 class="galleryItem">Gallery</h1>
+        <h1 class="bioItem">Biography</h1><h1 class="galleryItem">Gallery</h1><h1 class="bookingsItem">Bookings</h1>
     <img class="btnHome" src="../assets/icons/png-clipart-metrostation-black-home-icon-thumbnail-removebg-preview.png" alt="Home button image">
         </div>
 </div>
@@ -52,6 +52,14 @@
 }
 
 .galleryItem{
+    width: 5%;
+    height: 5%;
+    font-family: 'SF Fedora', sans-serif;
+    font-size: xx-large;
+    color:goldenrod;
+}
+
+.bookingsItem{
     width: 5%;
     height: 5%;
     font-family: 'SF Fedora', sans-serif;

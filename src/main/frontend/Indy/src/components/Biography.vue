@@ -11,9 +11,9 @@
             Little did he know at the time how deeply this event would influence his life. Two hours of sheer, mind-blowing entertainment that suddenly took – not just him, but millions of other people across the world – by storm.</article>
         </div>
         <div class="imagesAndBioTextSecond">
-            <article class="bioTextSecond">The film was Raiders of the Lost Ark…and that little kid was me. I still remember walking back home, dreamy and absent-minded, trying to digest the magnificent spectacle that I had just experienced.
+            <article class="bioTextSecond">The film was <i>Raiders of the Lost Ark… </i>and that little kid was me. I still remember walking back home, dreamy and absent-minded, trying to digest the magnificent spectacle that I had just experienced.
                 <br>
-            Raiders was just the beginning – although, of all the films in the franchise, possibly the one that had the greatest impact on me. Indiana Jones and the Temple of Doom would follow only three years later…and then, of course, The Last Crusade. Oh boy, it was really cool to be a kid growing up in the eighties!
+            Raiders was just the beginning – although, of all the films in the franchise, possibly the one that had the greatest impact on me. <i>Indiana Jones and the Temple of Doom</i> would follow only three years later…and then, of course, The Last Crusade. Oh boy, it was really cool to be a kid growing up in the eighties!
             </article>
             <img class="bioImg2" src="../assets/images/imgBio2.png" alt="Image of Ismael as Indiana Jones in early 90's in his hometown of Gijon">
         </div>
@@ -21,7 +21,7 @@
             <img class="bioImg3" src="../assets/images/imgBio3.png" alt="Image of Ismael as Indiana Jones nowadays">
             <article class="bioTextThird">The appeal of the Indiana Jones character is unquestionable. It is simply iconic and somehow manages to reach all audiences – young and old. This, of course, has a lot to do with Harrison Ford’s charisma - but also with Indy’s determination and witty sense of humour. He is the courageous-yet-relatable adventurer who takes us to exotic lands and fires up our imagination. Who didn’t ever want to be Indy at some point in their lives?
             <br>
-            No surprise it was named the greatest movie character of all time… after thousands of film fans cast their votes via the Empire magazine, back in 2015. Did you know that James Bond came only second?
+            No surprise it was named the greatest movie character of all time… after thousands of film fans cast their votes via the <i>Empire magazine</i>, back in 2015. Did you know that James Bond came only second?
             <br>
             Since Indiana Jones first hit the cinema screens back in 1981, fans all over the world have been fascinated not only by the storylines – but also by Indy’s iconic gear. I was one of them. 
             <br>
@@ -72,7 +72,7 @@ body{
 .bioImg1{
     size:90%;
     width: 40%;
-    margin-top: 1%;
+    margin-top: 3%;
     border: 1%;
     border-style: solid;
     border-color: goldenrod;
