@@ -4,7 +4,6 @@
 
 <template>
 
-<body>
 <h1>ISMAEL AS INDIANA JONES</h1>
 
 <P>Ever since watching Raiders of the Lost Ark as a kid, Ismael has been fascinated by Indiana Jones as a film character. The film provided two hours of sheer, mind-blowing entertainment that would take the world by storm.<br>
@@ -20,18 +19,11 @@ All throughout these years, fans all over the world have been fascinated not onl
 Over the years he has been dressing up as Indy, bringing joy to many people. Whether it is at corporate events, promotional assignments or charity galas, the ‘Indy’ in him takes over and never disappoints. <br><br>
 READ MORE...
 </P>
-</body>
 </template>
 
 
 <style>
 
-body{
-    background-image: url('../assets/images/backgroundGradient.png');
-    background-repeat: no-repeat;
-    background-position: cover;
-
-}
 
 h1{
     font-family: 'SF Fedora', sans-serif;

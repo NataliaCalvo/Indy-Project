@@ -6,7 +6,6 @@
 <template>
 
 <div class="headerComponents">
-
     <img id="imgIsmael" src="../assets/images/titlePageIsmael.png" alt="Page title: Ismael as Indiana Jones">
     <div class="menuItemsHeader">
         <h1 class="bioItem">Biography</h1><h1 class="galleryItem">Gallery</h1><h1 class="bookingsItem">Bookings</h1>
@@ -37,31 +36,31 @@
     width: 30%;
     height: 30%;
     margin-top: 0.4%;
-    margin-left: 35%;
+    margin-left: 2%;
     margin-bottom: 0.5%;
 
 
 }
 
 .bioItem{
-    width: 5%;
-    height: 5%;
+    width: 3%;
+    height: 3%;
     font-family: 'SF Fedora', sans-serif;
     font-size: xx-large;
     color:goldenrod;
 }
 
 .galleryItem{
-    width: 5%;
-    height: 5%;
+    width: 3%;
+    height: 3%;
     font-family: 'SF Fedora', sans-serif;
     font-size: xx-large;
     color:goldenrod;
 }
 
 .bookingsItem{
-    width: 5%;
-    height: 5%;
+    width: 3%;
+    height: 3%;
     font-family: 'SF Fedora', sans-serif;
     font-size: xx-large;
     color:goldenrod;

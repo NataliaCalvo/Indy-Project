@@ -44,18 +44,15 @@
             <br>
             </article>
         </div>
-</body>
-</template>
+        </body>
+    </template>
 
 <style>
 
-
 body{
-    background-image: url('../assets/images/backgroundGradient.png');
-    background-repeat: no-repeat;
-    background-position: cover;
-}
+    background: linear-gradient(to right, rgb(252, 74, 26), rgb(247, 183, 51));
 
+}
 .bioImgTitle{
     width: 20%;
     height: 20%;

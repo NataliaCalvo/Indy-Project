@@ -12,17 +12,6 @@
 // //   --negro: hsl(0, 0%, 8%);
 // //   --blanco: hsl(0, 0%, 98%);
 // //   --gris: hsl(0, 0%, 41%);
-
-// //   /* Tipografía */
-// //   --tipo-principal: 'Epilogue', sans-serif;
-// //   --tipo-secundaria: Verdana;
-// // }
-
-// // /* Las adaptamos al modo oscuro */
-// // @media (prefers-color-scheme: dark) {
-// //   :root {
-// //     --negro: #ececec;
-// //   }
 // // }
 // /* Opcional */
 // /* Configuramos si un usuario ha activado el modo alto contraste. (WD) */
@@ -37,14 +26,14 @@
 //   }
 // }
 // /* Reseteamos los margin y paddings de todas las etiquetas */
-// * {
-//   margin: 0;
-//   padding: 0;
-//   border: 0;
-//   -webkit-box-sizing: border-box;
-//           box-sizing: border-box;
-//   vertical-align: baseline;
-// }
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  vertical-align: baseline;
+}
 
 // /* Evitamos problemas con las imagenes */
 // img, picture, video, iframe, figure {
