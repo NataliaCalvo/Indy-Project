@@ -8,18 +8,18 @@
         <input
           type="text"
           class="formInput"
-          placeholder="Write here your Name:"
+          placeholder="Your Name:"
         /><br />
         <input
           type="email"
           class="formInput"
-          placeholder="Write here your Email:"
+          placeholder="Your Email:"
         /><br />
         <textarea
-          class="formInput formInput:message"
-          placeholder="Write here your Message"
+          class="formInput_formInput--message"
+          placeholder="Write your message here:"
         ></textarea><br />
-        <input type="submit" value="Send!" class="formInputCTA" />
+        <input type="submit" value="Send" class="formInputCTA" />
       </div>
     </form>
   </body>
@@ -41,7 +41,7 @@ body {
 
 .contactForm {
   background-color: white;
-  width: 100%;
+  width: 90%;
   margin: auto;
   max-width: 400px;
   border-radius: 1em;
@@ -53,7 +53,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 10px;
+  gap: 1px;
   grid-auto-columns: 100%;
 }
 
@@ -63,11 +63,51 @@ body {
     font-size: 1.8rem;
     margin-bottom: .4em;
     margin-top: 40px;
+    color: orangered;
 }
 
 .formInput{
+    width: 70%;
     font-family: inherit;
     font-size: 1rem;
     padding: .8em 1em;
+    outline: none;
+    border: none;
+    border: 1px solid goldenrod;
+    border-radius: 0.2em;
+}
+
+.formInput_formInput--message{
+    width: 65%;
+    outline: none;
+    border: none;
+    border: 1px solid goldenrod;
+    border-radius: 0.2em;
+    resize: none;
+    padding: 1.8em 2em;
+    margin-bottom: 0.5em;
+}
+.formInputCTA{
+    width: 79%;
+    font-family: inherit;
+    background-color: lightsalmon;
+    color: orangered;
+    border: none;
+    font-weight: 700;
+    font-size: 1rem;
+    padding: .7em 0;
+    border-radius: .2em;
+    cursor: pointer;
+    margin-bottom: 2em;
+}
+
+@media (max-width:450px){
+    .contactForm{
+        padding: 1em;
+    }
+    .formTitle{
+        font-size: large;
+    }
+
 }
 </style>
