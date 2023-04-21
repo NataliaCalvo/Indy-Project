@@ -11,7 +11,7 @@
 <div class="titlesMenu">
     <h1 class="bioTitle">Biography</h1>
     <h1 class="galleryTitle">Gallery</h1>
-    <h1 class="bookingTitle">Booking</h1>
+    <h1 class="bookingTitle">Bookings</h1>
 </div>
 </template>
 
