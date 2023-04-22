@@ -2,6 +2,16 @@
 
 <template>
   <body>
+<div class="divEvents">
+<h1 class="eventsTitle">PAST EVENTS</h1>
+<article class="eventsText">-	Paramount Pictures, Medicinema & Vue Entertainment (London): Charity gala to celebrate the 30th anniversary of Indiana Jones and the Temple of Doom – with producer Robert Watts in attendance.<br><br><br><br>
+-	Paramount Home Entertainment & HMV Flagship Store (London): European release of the Indiana Jones films on Blu-ray for the first time ever. 
+-	ExCel London: launch of the Sony Xperia 2014 mobile phone range<br><br><br>
+-	Chunky Onion Productions: Hollywood-themed annual dinner for the Institute of Actuaries (Birmingham).<br><br><br>
+-	Channel Four (London): Empire names Indiana Jones the greatest movie character of all time – Channel Four News; Entertainment highlights.<br>
+</article>
+</div>
+
     <form class="contactForm">
       <div class="divContainer">
         <h2 class="formTitle">Contact me for bookings!</h2>
@@ -20,6 +30,7 @@
           placeholder="Write your message here:"
         ></textarea><br />
         <input type="submit" value="Send" class="formInputCTA" />
+        <form action="mailto:natalia.calvo@gmail.com" method="post" enctype="text/plain"></form>
       </div>
     </form>
   </body>
@@ -37,6 +48,21 @@ body {
   min-height: 80vh;
   width: 100%;
   display: flex;
+
+}
+
+.divEvents{
+    width: 80%;
+    margin-top: 9em;
+    margin-left: 2.5em;
+}
+
+.eventsTitle{
+    margin-bottom: 50px;
+    margin-left: 10em;
+    color: goldenrod;
+
+
 }
 
 .contactForm {
@@ -46,6 +72,10 @@ body {
   max-width: 400px;
   border-radius: 1em;
   padding: 3.5em, 1.5em;
+  margin-left: 200px;
+  margin-right: 200px;
+  
+
 }
 
 .divContainer {

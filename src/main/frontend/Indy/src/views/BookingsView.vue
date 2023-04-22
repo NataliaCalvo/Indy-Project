@@ -1,13 +1,13 @@
 <script>
 import Header from '../components/Header.vue';
-import Gallery from '../components/Gallery.vue';
+import BookingComponent from '../components/BookingComponent.vue';
 import Footer from '../components/Footer.vue';
 
 </script>
 
 <template>
 <Header />
-<Gallery />
+<BookingComponent />
 <Footer />
 
 

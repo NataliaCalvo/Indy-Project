@@ -16,21 +16,25 @@
 
 <style>
 
+.headerComponents{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #715846;
+    width: 10%;
+    padding: 0;
+    margin: 0;
+    
+    
+
+}
+
 #imgIsmael{
     width: 20%;
     height: 20%;
     margin-top: 0.4%;
     margin-left: 2%;
     margin-bottom: 0.5%;
-
-}
-
-.headerComponents{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    background-color: #715846;
-    
 
 }
 
