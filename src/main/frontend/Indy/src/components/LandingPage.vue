@@ -7,10 +7,9 @@
 <!-- <h1 id="titleWeb">ISMAEL AS INDIANA JONES</h1> -->
 <img id="imgIsmael" src="../assets/images/titlePageIsmael.png" alt="Page title: Ismael as Indiana Jones">
 <div id="imgLanding">
-        <img src="../assets/images/IndyColor.png" class="coloredImage" alt="Image of Ismael as Indiana Jones shooting with his weapon in grey shadows">
+        <router-link to="/principal"><img src="../assets/images/IndyColor.png" class="coloredImage" alt="Image of Ismael as Indiana Jones shooting with his weapon in grey shadows"></router-link>
 </div>
-<!-- <h2 id="clickEnter">CLICK TO ENTER</h2> -->
-<img id="imgClickToEnter" src="../assets/images/enterLanding.png" alt="Click the image above to enter">
+<router-link to="/principal"><img id="imgClickToEnter" src="../assets/images/enterLanding.png" alt="Click the image above to enter"></router-link>
 <div class="lastRow">
     <div class="iconSocialMedia">
         <a href="https://www.facebook.com/profile.php?id=100091650320962">

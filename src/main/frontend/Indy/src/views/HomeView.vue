@@ -7,4 +7,11 @@ import LandingPage from '../components/LandingPage.vue';
 <template>
 
 <LandingPage />
+
 </template>
+
+
+<style scoped>
+
+
+</style>

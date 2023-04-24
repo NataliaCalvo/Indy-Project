@@ -3,7 +3,7 @@
 </script>
 
 <template>
-    <body>
+    <body class="bioBody">
         <img class="bioImgTitle" src="../assets/images/bioTitle.png" alt="Image of section's title: Biography"><br>
         <div class="imagesAndBioTextFirst">
             <img class="bioImg1" src="../assets/images/Feb 1990.jpg" alt="Image of Ismael as Indiana Jones in early 90's">
@@ -49,8 +49,10 @@
 
 <style>
 
-body{
+.bioBody{
     background: linear-gradient(to right, rgb(252, 74, 26), rgb(247, 183, 51));
+    padding: 0;
+    margin: 0;
 
 }
 .bioImgTitle{
@@ -81,6 +83,7 @@ body{
     margin-left: 5%;
     margin-top: 5%;
     margin-right: 2%;
+    text-align: justify;
 
 }
 
@@ -97,6 +100,7 @@ body{
     margin-left: 5%;
     margin-top: 3%;
     margin-right: 2%;
+    text-align: justify;
 }
 
 .bioImg2{
@@ -113,6 +117,7 @@ body{
     flex-direction: row;
     margin-top: 10px;
     margin-top: 4%;
+    text-align: justify;
 
 }
 
@@ -121,6 +126,7 @@ body{
     font-size: xx-large;
     margin-left: 5%;
     margin-right: 2%;
+    text-align: justify;
 }
 
 .bioImg3{
@@ -134,6 +140,7 @@ body{
     display: flex;
     flex-direction: row;
     margin-top: 10px;
+    text-align: justify;
 
 }
 
@@ -168,6 +175,7 @@ body{
     margin-left: 5%;
     margin-top: 4%;
     margin-right: 2%;
+    text-align: justify;
 }
 
 .bioImg5{

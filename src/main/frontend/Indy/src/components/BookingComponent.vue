@@ -30,7 +30,7 @@
           placeholder="Write your message here:"
         ></textarea><br />
         <input type="submit" value="Send" class="formInputCTA" />
-        <form action="mailto:natalia.calvo@gmail.com" method="post" enctype="text/plain"></form>
+        <form action= "https://formsubmit.co/ismaelrionda@gmail.com" method="POST" enctype="text/plain"></form>
       </div>
     </form>
   </body>

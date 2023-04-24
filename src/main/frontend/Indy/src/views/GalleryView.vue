@@ -1,16 +1,16 @@
-<script>
-import Header from '../components/Header.vue';
+<script setup>
+import HeaderPage from '../components/HeaderPage.vue';
 import Gallery from '../components/Gallery.vue';
 import Footer from '../components/Footer.vue';
+
 
 </script>
 
 <template>
-<Header />
+
+<HeaderPage />
 <Gallery />
-<Footer />
-
-
+<Footer></Footer>
 
 </template>
 <style></style>

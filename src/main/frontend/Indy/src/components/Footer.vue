@@ -14,7 +14,7 @@
         <img class="iconFacebook" src="../assets/icons/png-transparent-computer-icons-facebook-blog-facebook-logo-desktop-wallpaper-facebook-icon-removebg-preview.png" alt="Facebook Link"></a>
         <a href="https://twitter.com/indylookalike">
         <img class="iconTwitter" src="../assets/icons/twitter-logo-vector-png-clipart-1-removebg-preview.png" alt="Twitter Link"></a>
-        <a href="https://www.instagram.com/topindylookalike/">
+        <a href="https://www.instagram.com/topindylookalike/" target="_blank" rel="noopener noreferrer">
         <img class="iconInstagram" src="../assets/icons/instagram-logo-png-transparent-background-1024x1024-1-removebg-preview.png" alt="Instagram Link"></a>
         <a href="https://www.youtube.com/channel/UCPys7xIDUv5-txhRIWZI9fQ">
         <img class="iconYoutube" src="../assets/icons/png-transparent-youtube-logo-youtube-red-logo-computer-icons-youtube-television-angle-rectangle-thumbnail-removebg-preview.png" alt="Youtube Link"></a>
@@ -35,7 +35,7 @@ template{
     flex-direction: row;
     justify-content: space-between;
     background-color: #715846;
-
+    margin-top: 100px;
 
 
 } 

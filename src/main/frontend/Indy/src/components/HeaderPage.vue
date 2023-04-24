@@ -8,8 +8,10 @@
 <div class="headerComponents">
     <img id="imgIsmael" src="../assets/images/titlePageIsmael.png" alt="Page title: Ismael as Indiana Jones">
     <div class="menuItemsHeader">
-        <h1 class="bioItem">Biography</h1><h1 class="galleryItem">Gallery</h1><h1 class="bookingsItem">Bookings</h1>
-    <img class="btnHome" src="../assets/icons/png-clipart-metrostation-black-home-icon-thumbnail-removebg-preview.png" alt="Home button image">
+        <router-link to="/bio"><h1 class="bioItem">Biography</h1></router-link>
+        <router-link to="/gallery"><h1 class="galleryItem">Gallery</h1></router-link>
+        <router-link to="/bookings"><h1 class="bookingsItem">Bookings</h1></router-link>
+        <router-link to="/home"><h1 class="bookingsItem">Home</h1></router-link>
         </div>
 </div>
 
@@ -33,8 +35,8 @@
 }
 
 #imgIsmael{
-    width: 30%;
-    height: 30%;
+    width: 20%;
+    height: 20%;
     margin-top: 0.4%;
     margin-left: 2%;
     margin-bottom: 0.5%;
@@ -68,10 +70,10 @@
 
 
 .btnHome{
-    width: 5%;
-    height: 5%;
-    margin-top: 0.1%;
-    margin-bottom: 0.1%;
+    width: 20%;
+    height: 50%;
+    margin-top: 7%;
+    margin-bottom: 5%;
     color:goldenrod;
 
 

@@ -4,25 +4,29 @@
 
 <template>
 <div class="imagesRounded">   
-    <img class="roundedMenu1" src="../assets/images/img1Menu.JPG" alt="Ismael as Indiana Jones with the Golden Idol">
-    <img class="roundedMenu2" src="../assets/images/img2Alternative.JPG" alt="Ismael as Indiana Jones with the Staff of Ra">
-    <img class="roundedMenu3" src="../assets/images/imgAlternative33.JPG" alt="Ismael as Indiana Jones with the Golden Idol">
+    <router-link to="/bio"><img class="roundedMenu1" src="../assets/images/img1Menu.JPG" alt="Ismael as Indiana Jones with the Golden Idol"></router-link>
+    <router-link to="/gallery"><img class="roundedMenu2" src="../assets/images/img2Alternative.JPG" alt="Ismael as Indiana Jones with the Staff of Ra"></router-link>
+    <router-link to="/bookings"><img class="roundedMenu3" src="../assets/images/imgAlternative33.JPG" alt="Ismael as Indiana Jones with the Golden Idol"></router-link>
 </div>  
 <div class="titlesMenu">
-    <h1 class="bioTitle">Biography</h1>
-    <h1 class="galleryTitle">Gallery</h1>
-    <h1 class="bookingTitle">Bookings</h1>
+    <router-link to="/bio"><h1 class="bioTitle">Biography</h1></router-link>
+    <router-link to="/gallery"><h1 class="galleryTitle">Gallery</h1></router-link>
+    <router-link to="/bookings"><h1 class="bookingTitle">Bookings</h1></router-link>
 </div>
 </template>
 
 
 <style>
 
+a:link, a:visited, a:active {
+    text-decoration:none;
+}
+
 .imagesRounded{
     display: flex;
     flex-direction: row;
-    justify-content: space-evenly;
-    margin-top: 0.7%;
+    justify-content: space-around;
+    margin-top: 2%;
     background: none;
 
 }
@@ -33,42 +37,50 @@
     justify-content: space-around;
     font-family: 'SF Fedora', sans-serif;
     font-size: medium;
-    background: none;
+
 
 }
 
 .bioTitle {
-    margin-left: 6%;
+    margin-left: 26%;
+    color: goldenrod;
+    
 }
 
 .galleryTitle{
-    margin-right: 1.5%;
+    margin-right: 50px;
+    margin-left: 50px;
+    color: orangered;
 }
 
 .bookingTitle{
-    margin-right: 8%;
+    margin-right: 200px;
+    color: orangered;
 }
 
 
 .roundedMenu1{
 
-    width: 15%;
-    height: 20%;
+    width: 120%;
+    height: 80%;
     border-radius: 100%;
+    margin-left: 200px;
 }
 
 .roundedMenu2{
 
-width: 15%;
-height: 283px;
-border-radius: 100%;
+    width: 25%;
+    height: 80%;
+    border-radius: 100%;
+    margin-left: 550px;
 }
 
 .roundedMenu3{
 
-width: 15%;
-height: 283px;
-border-radius: 100%;
+    width: 30%;
+    height: 80%;
+    border-radius: 100%;
+    margin-left: 200px;
 }
 
 </style>

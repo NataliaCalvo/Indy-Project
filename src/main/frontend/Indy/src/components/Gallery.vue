@@ -3,31 +3,50 @@
     <img class="galleryTitle" src="../assets/images/galleryTitle.png" />
     <span class="line"></span>
     <section class="gallery">
-      <a href="#image1"><img src="../assets/images/11.JPG" alt="" /></a>
-      <a href="#image2"><img src="../assets/images/14.JPG" alt="" /></a>
-      <a href="#image3"><img src="../assets/images/11.JPG" alt="" /></a>
-      <a href="#image4"><img src="../assets/images/11.JPG" alt="" /></a>
-      <a href="#image5"><img src="../assets/images/11.JPG" alt="" /></a>
-      <a href="#image6"><img src="../assets/images/11.JPG" alt="" /></a>
-      <a href="#image7"><img src="../assets/images/11.JPG" alt="" /></a>
-      <a href="#image8"><img src="../assets/images/11.JPG" alt="" /></a>
-      <a href="#image9"><img src="../assets/images/11.JPG" alt="" /></a>
-      <a href="#image10"><img src="../assets/images/11.JPG" alt="" /></a>
-      <a href="#image11"><img src="../assets/images/11.JPG" alt="" /></a>
-      <a href="#image12"><img src="../assets/images/11.JPG" alt="" /></a>
-      <a href="#image13"><img src="../assets/images/11.JPG" alt="" /></a>
-      <a href="#image14"><img src="../assets/images/11.JPG" alt="" /></a>
-      <a href="#image15"><img src="../assets/images/11.JPG" alt="" /></a>
-      <a href="#image16"><img src="../assets/images/11.JPG" alt="" /></a>
-      <a href="#image17"><img src="../assets/images/11.JPG" alt="" /></a>
-      <a href="#image18"><img src="../assets/images/11.JPG" alt="" /></a>
-      <a href="#image19"><img src="../assets/images/11.JPG" alt="" /></a>
-      <a href="#image20"><img src="../assets/images/11.JPG" alt="" /></a>
-      <a href="#image21"><img src="../assets/images/11.JPG" alt="" /></a>
-      <a href="#image22"><img src="../assets/images/11.JPG" alt="" /></a>
-      <a href="#image20"><img src="../assets/images/11.JPG" alt="" /></a>
-      <a href="#image21"><img src="../assets/images/11.JPG" alt="" /></a>
-      <a href="#image22"><img src="../assets/images/11.JPG" alt="" /></a>
+      <a href="#image1"><img src="../assets/images/imgsGallery/1 - copia.JPG" alt="" /></a>
+      <a href="#image2"><img src="../assets/images/imgsGallery/11 - copia.JPG" alt="" /></a>
+      <a href="#image3"><img src="../assets/images/imgsGallery/14 - copia.JPG" alt="" /></a>
+      <a href="#image4"><img src="../assets/images/imgsGallery/15 - copia.jpg" alt="" /></a>
+      <a href="#image5"><img src="../assets/images/imgsGallery/17 - copia.jpg" alt="" /></a>
+      <a href="#image6"><img src="../assets/images/imgsGallery/18 - copia.jpg" alt="" /></a>
+      <a href="#image7"><img src="../assets/images/imgsGallery/19 - copia.JPG" alt="" /></a>
+      <a href="#image8"><img src="../assets/images/imgsGallery/2 - copia.JPG" alt="" /></a>
+      <a href="#image9"><img src="../assets/images/imgsGallery/20 - copia.JPG" alt="" /></a>
+      <a href="#image10"><img src="../assets/images/imgsGallery/22 - copia.JPG" alt="" /></a>
+      <a href="#image11"><img src="../assets/images/imgsGallery/8 - copia.JPG" alt="" /></a>
+      <a href="#image12"><img src="../assets/images/imgsGallery/9 - copia.JPG" alt="" /></a>
+      <a href="#image13"><img src="../assets/images/imgsGallery/Eventos1.JPG" alt="" /></a>
+      <a href="#image14"><img src="../assets/images/imgsGallery/Eventos10.jpg" alt="" /></a>
+      <a href="#image15"><img src="../assets/images/imgsGallery/Eventos11.JPG" alt="" /></a>
+      <a href="#image16"><img src="../assets/images/imgsGallery/Eventos11.JPG" alt="" /></a>
+      <a href="#image17"><img src="../assets/images/imgsGallery/Eventos2.JPG" alt="" /></a>
+      <a href="#image18"><img src="../assets/images/imgsGallery/Eventos4.JPG" alt="" /></a>
+      <a href="#image19"><img src="../assets/images/imgsGallery/Eventos5.jpg" alt="" /></a>
+      <a href="#image20"><img src="../assets/images/imgsGallery/Eventos6.jpg" alt="" /></a>
+      <a href="#image21"><img src="../assets/images/imgsGallery/Eventos7.JPG" alt="" /></a>
+      <a href="#image22"><img src="../assets/images/imgsGallery/Eventos9.jpg" alt="" /></a>
+      <a href="#image20"><img src="../assets/images/imgsGallery/Feb 1990 - 2.jpg" alt="" /></a>
+      <a href="#image21"><img src="../assets/images/imgsGallery/Feb 1990.jpg" alt="" /></a>
+      <a href="#image22"><img src="../assets/images/imgsGallery/FondoLanding.JPG" alt="" /></a>
+      <a href="#image7"><img src="../assets/images/imgsGallery/img1Menu.JPG" alt="" /></a>
+      <a href="#image8"><img src="../assets/images/imgsGallery/img2Alternative.JPG" alt="" /></a>
+      <a href="#image9"><img src="../assets/images/imgsGallery/img2Menu.JPG" alt="" /></a>
+      <a href="#image10"><img src="../assets/images/imgsGallery/img3Menu.JPG" alt="" /></a>
+      <a href="#image11"><img src="../assets/images/imgsGallery/IMG_7595.JPG" alt="" /></a>
+      <a href="#image12"><img src="../assets/images/imgsGallery/IMG_7597.JPG" alt="" /></a>
+      <a href="#image13"><img src="../assets/images/imgsGallery/IMG_7598.JPG" alt="" /></a>
+      <a href="#image14"><img src="../assets/images/imgsGallery/IMG_7602.JPG" alt="" /></a>
+      <a href="#image15"><img src="../assets/images/imgsGallery/IMG_7606.JPG" alt="" /></a>
+      <a href="#image16"><img src="../assets/images/imgsGallery/IMG_7617.JPG" alt="" /></a>
+      <a href="#image17"><img src="../assets/images/imgsGallery/IMG_7643.JPG" alt="" /></a>
+      <a href="#image18"><img src="../assets/images/imgsGallery/IMG_7644.JPG" alt="" /></a>
+      <a href="#image19"><img src="../assets/images/imgsGallery/LC.JPG" alt="" /></a>
+      <a href="#image20"><img src="../assets/images/imgsGallery/LC2.JPG" alt="" /></a>
+      <a href="#image21"><img src="../assets/images/imgsGallery/LC3.JPG" alt="" /></a>
+      <a href="#image22"><img src="../assets/images/imgsGallery/LCProp.JPG" alt="" /></a>
+      <a href="#image20"><img src="../assets/images/imgsGallery/LCProp2.JPG" alt="" /></a>
+      <a href="#image21"><img src="../assets/images/imgsGallery/ToD2.JPG" alt="" /></a>
+      <a href="#image22"><img src="../assets/images/imgsGallery/ToDProp2.JPG" alt="" /></a>
     </section>
     <article class="lightBox" id="image1">
       <img src="../assets/images/11.JPG" alt="" />
