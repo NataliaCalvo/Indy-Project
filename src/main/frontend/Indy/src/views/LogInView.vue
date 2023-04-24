@@ -1,6 +1,6 @@
 <script setup>
 
-import HeaderPage from '../components/HeaderPage.vue';
+import HeaderPrincipal from '../components/HeaderPrincipal.vue';
 import LogInComponent from '../components/LogInComponent.vue';
 import Footer from '../components/Footer.vue';
 
@@ -8,7 +8,7 @@ import Footer from '../components/Footer.vue';
 
 <template>
 
-    <HeaderPage></HeaderPage>
+    <HeaderPrincipal></HeaderPrincipal>
     <LogInComponent></LogInComponent>
     <Footer></Footer>
 
