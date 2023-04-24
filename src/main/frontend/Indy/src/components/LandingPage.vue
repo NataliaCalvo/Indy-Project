@@ -34,12 +34,6 @@
     src: url('../assets/fonts/SF\ Fedora\ Symbols.ttf');
 }
 
-*{
-    margin:0;
-    padding: 0;
-    
-}
-
 body { min-height: 100%; padding: none;}
 main {
     padding: none;

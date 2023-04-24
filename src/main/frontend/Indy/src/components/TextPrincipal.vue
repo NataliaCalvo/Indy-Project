@@ -121,7 +121,6 @@ label{
   padding: 0% 3%;
   line-height: 25px;
 
-
 }
 
 </style>
