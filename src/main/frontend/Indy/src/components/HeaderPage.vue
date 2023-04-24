@@ -42,7 +42,7 @@
 #imgIsmael{
     width: 20%;
     height: 20%;
-    margin-top: 0.4%;
+    margin-top: 2;
     margin-left: 2%;
     margin-bottom: 0.5%;
 
