@@ -26,8 +26,13 @@
 </template>
 
 <style>
-template{
+
+*{
+    padding: 0;
     margin: 0;
+}
+template{
+    /* margin: 0; */
 }
 
 .elementsFooter{
@@ -35,7 +40,7 @@ template{
     flex-direction: row;
     justify-content: space-between;
     background-color: #715846;
-    margin-top: 100px;
+    margin-top: 0px;
 
 
 } 

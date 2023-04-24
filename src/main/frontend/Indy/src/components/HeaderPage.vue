@@ -19,6 +19,11 @@
 
 <style>
 
+*{
+    margin: 0;
+    padding: 0;
+}
+
 .headerComponents{
     background-color: #715846;
    
@@ -50,6 +55,7 @@
     font-family: 'SF Fedora', sans-serif;
     font-size: xx-large;
     color:goldenrod;
+    margin-top: 10%;
 }
 
 .galleryItem{
@@ -58,6 +64,7 @@
     font-family: 'SF Fedora', sans-serif;
     font-size: xx-large;
     color:goldenrod;
+    margin-top: 15%;
 }
 
 .bookingsItem{
@@ -66,6 +73,7 @@
     font-family: 'SF Fedora', sans-serif;
     font-size: xx-large;
     color:goldenrod;
+
 }
 
 

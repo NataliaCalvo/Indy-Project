@@ -4,7 +4,7 @@
 
 <template>
 <div class="imagesRounded">   
-    <router-link to="/bio"><img class="roundedMenu1" src="../assets/images/img1Menu.JPG" alt="Ismael as Indiana Jones with the Golden Idol"></router-link>
+    <RouterLink to="/bio"><img class=roundedMenu1 src="../assets/images/img1Menu.JPG" alt= "Ismael as Indiana Jones with the Golden Idol"></RouterLink>
     <router-link to="/gallery"><img class="roundedMenu2" src="../assets/images/img2Alternative.JPG" alt="Ismael as Indiana Jones with the Staff of Ra"></router-link>
     <router-link to="/bookings"><img class="roundedMenu3" src="../assets/images/imgAlternative33.JPG" alt="Ismael as Indiana Jones with the Golden Idol"></router-link>
 </div>  

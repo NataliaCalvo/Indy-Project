@@ -98,7 +98,7 @@ p {
 
 label{
   font-size: 20px;
-  font-family: "SF Fedora Titles", sans-serif;
+  font-family: "SF Fedora", sans-serif;
   display: inline-block;
   cursor: pointer;
   color: orangered;

@@ -4,11 +4,12 @@
   <body>
 <div class="divEvents">
 <h1 class="eventsTitle">PAST EVENTS</h1>
-<article class="eventsText">-	Paramount Pictures, Medicinema & Vue Entertainment (London): Charity gala to celebrate the 30th anniversary of Indiana Jones and the Temple of Doom – with producer Robert Watts in attendance.<br><br><br><br>
--	Paramount Home Entertainment & HMV Flagship Store (London): European release of the Indiana Jones films on Blu-ray for the first time ever. 
--	ExCel London: launch of the Sony Xperia 2014 mobile phone range<br><br><br>
--	Chunky Onion Productions: Hollywood-themed annual dinner for the Institute of Actuaries (Birmingham).<br><br><br>
--	Channel Four (London): Empire names Indiana Jones the greatest movie character of all time – Channel Four News; Entertainment highlights.<br>
+<article class="eventsText">Ismael has impersonated Indiana Jones at many different events, public or private. A few examples of these include:<br><br><br>
+  * <b>Paramount Pictures, Medicinema & Vue Entertainment (London):</b> Charity gala to celebrate the 30th anniversary of Indiana Jones and the Temple of Doom – with producer Robert Watts in attendance.<br><br><br><br>
+	* <b>Paramount Home Entertainment & HMV Flagship Store (London):</b> European release of the Indiana Jones films on Blu-ray for the first time ever. 
+	* <b>ExCel London:</b> launch of the Sony Xperia 2014 mobile phone range<br><br><br>
+	* <b>Chunky Onion Productions:</b> Hollywood-themed annual dinner for the Institute of Actuaries (Birmingham).<br><br><br>
+	* <b>Channel Four (London):</b> Empire names Indiana Jones the greatest movie character of all time – Channel Four News; Entertainment highlights.<br>
 </article>
 </div>
 
@@ -30,7 +31,7 @@
           placeholder="Write your message here:"
         ></textarea><br />
         <input type="submit" value="Send" class="formInputCTA" />
-        <form action= "https://formsubmit.co/ismaelrionda@gmail.com" method="POST" enctype="text/plain"></form>
+        <form action= "https://formsubmit.co/indianismael@gmail.com" method="POST" enctype="text/plain"></form>
       </div>
     </form>
   </body>
@@ -45,7 +46,7 @@
 
 body {
   background: linear-gradient(to right, rgb(252, 74, 26), rgb(247, 183, 51));
-  min-height: 80vh;
+  min-height: 90vh;
   width: 100%;
   display: flex;
 
@@ -59,11 +60,15 @@ body {
 
 .eventsTitle{
     margin-bottom: 50px;
-    margin-left: 10em;
+    margin-left: 15em;
     color: goldenrod;
-
-
 }
+.eventsText{
+  text-align:justify;
+  margin-left: 10%;
+}
+
+
 
 .contactForm {
   background-color: white;
